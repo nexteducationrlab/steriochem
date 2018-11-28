@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Allene" size="1.000000 0.750000" />
+    <ImageTarget name="TSdtartaric" size="1.000000 0.750000" />
+    <ImageTarget name="TSltartaric" size="1.000000 0.750000" />
+    <ImageTarget name="TSmtartaric" size="1.000000 0.750000" />
+    <ImageTarget name="dtartaric1" size="1.000000 0.750000" />
+    <ImageTarget name="mtartaric" size="1.000000 0.750000" />
+    <ImageTarget name="ltartaric" size="1.000000 0.750000" />
+    <ImageTarget name="l-threose" size="1.000000 0.750000" />
+    <ImageTarget name="d-threose" size="1.000000 0.750000" />
+    <ImageTarget name="l-erythrose" size="1.000000 0.750000" />
+    <ImageTarget name="d-erythrose" size="1.000000 0.750000" />
+  </Tracking>
+</QCARConfig>
